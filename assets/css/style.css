@@ -40,6 +40,8 @@ body {
 }
 .contentContainer {
 	padding-top: 105px;
+	overflow: auto;
+	margin-bottom: 25px;
 
 }
 .content {
