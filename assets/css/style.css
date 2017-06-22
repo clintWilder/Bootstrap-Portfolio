@@ -181,6 +181,7 @@ hr {
 
 
 .footer {
+	margin-top: 25px;
 	clear: both;
 	line-height: 70px;
 	color: #cccccc;
@@ -220,7 +221,6 @@ hr {
 	margin: 0 auto;
 	line-height: 1.5em;
 	padding-bottom: 20px;
-	float: left;
 	width: 100%;
 	}
 	h2 {
@@ -241,9 +241,7 @@ hr {
 	display: inline-block;
 	}
 	.profilePic {
-	float: left;
 	width: 100%;
-	margin-right: 25px;
 	margin-bottom: 10px;
 	}
 	.portfolio-thumb {
